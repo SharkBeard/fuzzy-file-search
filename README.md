@@ -12,10 +12,14 @@ set wildmenu
 ```
 
 ## Usage
+
 * `:find` to search for and open file in current directory
 * `:b` to search within buffers
 * `:ls` to list open buffers
 
+## Alternatives
+
+[ctrlp.vim](ctrlpvim/ctrlp.vim)
 
 ## Todo
 * Add screenshots
